@@ -1,1 +1,1 @@
-# GitHub Foundaitons ハンズオン手順書
+# GitHub Foundations ハンズオン手順書
