@@ -1,3 +1,1 @@
-# foundations-hands-on-1
-aaa
-bbb
+# GitHub Foundaitons ハンズオン手順書
